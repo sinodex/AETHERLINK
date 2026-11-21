@@ -1,0 +1,48 @@
+# Build output
+**/build/
+**/bin/
+**/obj/
+dist/
+
+# Gradle
+.gradle/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.externalNativeBuild/
+.cxx/
+
+# Local Android configuration
+local.properties
+
+# Kotlin
+.kotlin/
+
+# .NET / Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Generated and temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Signing keys and private credentials
+*.jks
+*.keystore
+*.p12
+*.pfx
+.env
+.env.*
+
+# Release and generated packages
+*.apk
+*.aab
+*.exe
