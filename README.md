@@ -52,7 +52,7 @@ For installation, VB-Cable setup, Windows sound-device selection, and microphone
 ## Package name
 
 The Android Kotlin sources and directory structure use `com.aetherlink`. When the missing Android Gradle files are added, set the Gradle namespace and application ID to `com.aetherlink` as well.
-
+s
 ## AI Usage
 
 The first prototypes of the Android and Windows apps were written by the project creator without AI.
@@ -65,6 +65,3 @@ and improving the readability of the documentation.
 All final project decisions, code changes and development direction remain the responsibility of
 the project creator.
 
-## License
-
-No license file is included yet. Until a license is added, the source should be treated as all rights reserved by the copyright holder.
