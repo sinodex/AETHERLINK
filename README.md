@@ -72,7 +72,7 @@ More information, screenshots and project media will be added later.
 ## AI Usage
 
 No AI was used to write the project's application code.
-
+ 
 AI tools were used only as development support for debugging, reviewing the project and build structure, organizing files and improving the readability of the documentation. The goal was to make the project structure easier to understand for everyone, including people who are not developers.
 
 All final project decisions, code changes and development direction remain the responsibility of the project creator.
