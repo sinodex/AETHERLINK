@@ -1,0 +1,37 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+*.iml
+.externalNativeBuild/
+.cxx/
+
+# Android generated/signing files
+captures/
+*.apk
+*.aab
+*.apks
+*.jks
+*.keystore
+
+# .NET build output
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# Test and coverage output
+TestResults/
+coverage/
+
+# Local secrets and environment overrides
+.env
+.env.*
+!.env.example
