@@ -1,6 +1,6 @@
 # AetherLink
 
-AetherLink routes Windows system audio to an Android phone over USB, so the phone can play it through connected Bluetooth headphones. It can also bridge the phone microphone back to Windows for use by desktop applications.
+AetherLink is an early-stage Bluetooth audio bridge. It forwards Windows system audio over USB to an Android phone, which plays it through connected Bluetooth headphones. It can also return the phone microphone to Windows for use by desktop applications. Support for Linux devices may be added in the future; it is not part of the current implementation.
 
 ## Project status
 
