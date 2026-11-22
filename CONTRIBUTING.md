@@ -70,4 +70,4 @@ The goal of contribution is to improve AETHERLINK and create a helpful environme
 
 ## Project stage
 
-AETHERLINK is currently **Early Stage Development**. The first public GitHub release is still being prepared and may arrive around late 2027, potentially around the middle of December. This estimate can change as development and testing continue.
+AETHERLINK is currently **Early Stage Development**. The first public GitHub release is still being prepared and may arrive around late 2027, potentially around the middle of December. This estimate can change as development and testing continue. 
